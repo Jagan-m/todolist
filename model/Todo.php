@@ -1,5 +1,5 @@
 <?php
-/*  test message 123
+/*  test messag 123e
  * DO NOT ALTER OR REMOVE COPYRIGHT NOTICES OR THIS HEADER.
  *
  * Copyright 2011 Oracle and/or its affiliates. All rights reserved.
